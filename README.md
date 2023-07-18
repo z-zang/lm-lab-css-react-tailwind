@@ -7,6 +7,13 @@ The estate agents 'Marvelous Mansions' recently lost their lead developer half w
 
 Your mission is to rapidly help Marvelous Mansions get their website looking as good as possible using [Tailwind](https://tailwindcss.com/)
 
+## Getting Started
+
+👉 clone this repository
+
+👉 npm install 
+
+👉 npm run dev
 
 ## Guide
 
