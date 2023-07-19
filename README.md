@@ -17,7 +17,7 @@ https://tailwindcss.com/docs/guides/vite
 
 ## Getting Started
 
-👉 clone this repository
+👉 fork & clone this repository
 
 👉 npm install 
 
